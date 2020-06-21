@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400; 
+  src: local('Gilroy'), local('Gilroy'),
+       url('./assets/fonts/Gilroy-Light.otf') format('opentype')
+}
+
+p {
+  font-family: 'Gilroy'
+}
